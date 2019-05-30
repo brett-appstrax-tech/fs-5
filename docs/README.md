@@ -10,7 +10,7 @@ Welcome to iXperience Full Stack 2019!
 
 Enter in VS Code Terminal
 ```bash
-npm install ng2-charts
+npm install ng2-charts@2.2.3
 npm install chart.js
 ```
 ## Charts.js Library Usage
